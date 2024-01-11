@@ -140,10 +140,14 @@ In particular I decided to test the most delicate part: detection of the marker,
 After connecting to the robot through ssh protocol and running the code on a linux distribution with shared ros master I modified the code to have the different behaviors separate. In the end the robot performed just the first switch from goto_waypoint to searchfor_marker in the correct way.
 
   
-****simulated robot****
+****simulated robot (30 times faster)****
 
 
   
+
+https://github.com/FabrizioLeopardi/Assignment2ExpSecond3/assets/104570450/e6d8d9c2-83e1-44cb-9a16-c24c7350e9c8
+
+
 
 ****switch behavior:****
 
