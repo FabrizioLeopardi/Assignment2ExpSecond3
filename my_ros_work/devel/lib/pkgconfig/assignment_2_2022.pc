@@ -1,0 +1,8 @@
+prefix=/root/Desktop/my_ros_work/devel
+
+Name: assignment_2_2022
+Description: Description of assignment_2_2022
+Version: 0.0.0
+Cflags: -I/root/Desktop/my_ros_work/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
