@@ -154,17 +154,29 @@ https://github.com/FabrizioLeopardi/Assignment2ExpSecond3/assets/104570450/e6d8d
   
 
 
-  
 
-  
-
-****go to point:****
-
-  
-
+https://github.com/FabrizioLeopardi/Assignment2ExpSecond3/assets/104570450/69821f8a-0770-4ede-8b25-1dc41736b9ae
 
 
   
+
+  
+
+****goto_waypoint:****
+
+  
+
+
+https://github.com/FabrizioLeopardi/Assignment2ExpSecond3/assets/104570450/50bcbc25-95ae-456a-91f8-f9dc71c00333
+
+
+****searchfor_marker:****
+
+  
+
+
+https://github.com/FabrizioLeopardi/Assignment2ExpSecond3/assets/104570450/d4e8f736-9314-45dc-91fc-a9c9bd3e44b0
+
 
   
 
